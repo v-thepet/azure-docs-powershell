@@ -1,7 +1,7 @@
 ---
-ms.date: 07/05/2023
+ms.date: 09/05/2023
 ms.topic: include
-ms.custom: devx-track-azurepowershell
+ms.custom:
 ---
 
-The current version of Azure PowerShell is 10.1.0.
+The current version of Azure PowerShell is 10.3.0.
